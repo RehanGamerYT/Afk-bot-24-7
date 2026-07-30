@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TheZerobrineSMP.aternos.me",
-    "port": 24797,
+    "ip": "ZerobrineX2SMP.aternos.me",
+    "port": 48043,
     "version": "1.20.1",
     "try-creative": false
   },
